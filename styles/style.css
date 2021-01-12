@@ -1,0 +1,18 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    color: #282828;
+}
+
+.personal {
+    padding: 100px;
+    align-content: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+#flex {
+    padding: 20px;
+    border: 3px;
+}
